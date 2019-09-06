@@ -5,7 +5,7 @@
       <paths name="felia_single">
         <serverdata>
           <mappings>
-            <mapping local="$PROJECT_DIR$" web="gbu/FAST/template/opsi1_v001" />
+            <mapping local="$PROJECT_DIR$" web="gbu/FAST/template_opsi1" />
           </mappings>
         </serverdata>
       </paths>
