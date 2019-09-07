@@ -14037,6 +14037,13 @@ textarea.parsley-success:focus {
   padding-top: 3px;
   padding-bottom: 3px; }
 
+.lph-form .divider-vertical {
+  margin: 0 20px; }
+  .lph-form .divider-vertical ::before {
+    margin-bottom: 0; }
+  .lph-form .divider-vertical ::after {
+    margin-top: 0; }
+
 /* ############### UTILITIES/HELPER CLASSES ############### */
 /* ###### 9.1 Background  ###### */
 .bg-brand-01 {

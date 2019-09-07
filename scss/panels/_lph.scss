@@ -53,4 +53,16 @@
     padding-top: 3px;
     padding-bottom: 3px;
   }
+
+
+  .divider-vertical {
+    margin: 0 20px;
+
+    ::before{
+      margin-bottom: 0;
+    }
+    ::after{
+      margin-top: 0;
+    }
+  }
 }
