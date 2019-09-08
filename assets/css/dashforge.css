@@ -13996,53 +13996,48 @@ textarea.parsley-success:focus {
   color: #8392a5; }
 
 /* ############### FAST SPECIAL STYLES ############### */
-.lph-form .card-header {
-  padding: 5px 15px; }
-  @media (min-width: 576px) {
-    .lph-form .card-header {
-      padding: 5px 20px; } }
-
-.lph-form .card-body {
-  padding: 15px 15px 10px; }
-  @media (min-width: 576px) {
-    .lph-form .card-body {
-      padding: 15px 20px 10px; } }
-
-.lph-form .form-control {
-  font-size: 13px;
-  height: 25px;
-  padding: 5px; }
-
-.lph-form textarea.form-control {
-  min-height: 38px; }
-
-.lph-form .form-group {
-  margin-bottom: 5px; }
-  .lph-form .form-group .col-1, .lph-form .form-group .col-2, .lph-form .form-group .col-3, .lph-form .form-group .col-4, .lph-form .form-group .col-5, .lph-form .form-group .col-6, .lph-form .form-group .col-7, .lph-form .form-group .col-8, .lph-form .form-group .col-9, .lph-form .form-group .col-10, .lph-form .form-group .col-11, .lph-form .form-group .col-12, .lph-form .form-group .col, .lph-form .form-group .col-auto {
-    padding: 0 10px; }
-  .lph-form .form-group .col-form-label {
+.lph-form {
+  min-width: 1290px !important; }
+  .lph-form .card-header {
+    padding: 5px 15px; }
+    @media (min-width: 576px) {
+      .lph-form .card-header {
+        padding: 5px 20px; } }
+  .lph-form .card-body {
+    padding: 15px 15px 10px; }
+    @media (min-width: 576px) {
+      .lph-form .card-body {
+        padding: 15px 20px 10px; } }
+  .lph-form .form-control {
     font-size: 13px;
-    padding-top: 4px; }
-
-.lph-form .input-group-text {
-  padding: 2px 5px 0 5px; }
-
-.lph-form .table th, .lph-form .table td {
-  padding: 4px 10px;
-  line-height: 1.5;
-  vertical-align: middle; }
-
-.lph-form .btn-xs {
-  font-size: 11px;
-  padding-top: 3px;
-  padding-bottom: 3px; }
-
-.lph-form .divider-vertical {
-  margin: 0 20px; }
-  .lph-form .divider-vertical ::before {
-    margin-bottom: 0; }
-  .lph-form .divider-vertical ::after {
-    margin-top: 0; }
+    height: 25px;
+    padding: 5px; }
+  .lph-form textarea.form-control {
+    min-height: 38px; }
+  .lph-form .form-group {
+    margin-bottom: 5px; }
+    .lph-form .form-group .col-1, .lph-form .form-group .col-2, .lph-form .form-group .col-3, .lph-form .form-group .col-4, .lph-form .form-group .col-5, .lph-form .form-group .col-6, .lph-form .form-group .col-7, .lph-form .form-group .col-8, .lph-form .form-group .col-9, .lph-form .form-group .col-10, .lph-form .form-group .col-11, .lph-form .form-group .col-12, .lph-form .form-group .col, .lph-form .form-group .col-auto {
+      padding: 0 10px; }
+    .lph-form .form-group .col-form-label {
+      font-size: 13px;
+      padding-top: 4px; }
+  .lph-form .input-group-text {
+    padding: 2px 5px 0 5px; }
+  .lph-form .table th, .lph-form .table td {
+    padding: 4px 10px;
+    line-height: 1.5;
+    vertical-align: middle; }
+  .lph-form .btn-xs {
+    font-size: 11px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    width: 90px; }
+  .lph-form .divider-vertical {
+    margin: 0 20px; }
+    .lph-form .divider-vertical ::before {
+      margin-bottom: 0; }
+    .lph-form .divider-vertical ::after {
+      margin-top: 0; }
 
 /* ############### UTILITIES/HELPER CLASSES ############### */
 /* ###### 9.1 Background  ###### */
