@@ -13996,6 +13996,20 @@ textarea.parsley-success:focus {
   color: #8392a5; }
 
 /* ############### FAST SPECIAL STYLES ############### */
+.lph .select2-container--default .select2-selection--single {
+  height: 25px; }
+  .lph .select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 25px; }
+
+.lph .select2-container--default .select2-search--dropdown .select2-search__field {
+  padding: 3px 10px; }
+
+.lph .select2-container--open {
+  font-size: 13px; }
+
+.lph .select2-results__option {
+  padding: 4px 10px; }
+
 .lph-form {
   min-width: 1290px !important; }
   .lph-form .card-header {
