@@ -86,10 +86,10 @@
   .divider-vertical {
     margin: 0 20px;
 
-    ::before{
+    &:before{
       margin-bottom: 0;
     }
-    ::after{
+    &:after{
       margin-top: 0;
     }
   }

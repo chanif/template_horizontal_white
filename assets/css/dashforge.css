@@ -14048,9 +14048,9 @@ textarea.parsley-success:focus {
     width: 90px; }
   .lph-form .divider-vertical {
     margin: 0 20px; }
-    .lph-form .divider-vertical ::before {
+    .lph-form .divider-vertical:before {
       margin-bottom: 0; }
-    .lph-form .divider-vertical ::after {
+    .lph-form .divider-vertical:after {
       margin-top: 0; }
 
 /* ############### UTILITIES/HELPER CLASSES ############### */
